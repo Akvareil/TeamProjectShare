@@ -1,0 +1,32 @@
+﻿[
+    {
+        "lastName":"Klychko",
+        "post":"President",
+        "salary":25000
+    },
+    {
+        "lastName":"Yacenyuk",
+        "post":"Premier",
+        "salary":"20000"
+    },
+    {
+        "lastName":"Lyashko",
+        "post":"Deputat",
+        "salary":"10000"
+    },
+    {
+        "lastName":"Shufrich",
+        "post":"Deputat",
+        "salary":"10000"
+    },
+    {
+        "lastName":"Klychko",
+        "post":"Deputat",
+        "salary":"100000"
+    },
+    {
+        "lastName":"Avakov",
+        "post":"Deputat",
+        "salary":"10000"
+    }
+]
